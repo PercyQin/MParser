@@ -1,0 +1,49 @@
+XML pos	iid 	16-ins	STANFORD pos
+det			DT
+ncm		0	NN
+ncm		4	NNS
+ncm		5	NNS
+ncm		8	NN
+npp		0	NNP
+npp		4	NNPS
+npp		8	NNP
+ntp		0	NN
+ntp		4	NNS
+ntp		8	NN
+cop			VBP
+adj			JJ
+adv			RB
+vtr		00	(have VBP) + VBN
+vtr		01	(have VBP +  been VBN) +VBG 
+vtr		04	( is VBP) + VBG
+vtr		10	( was VBD) + VBN
+vtr		11	(was VBD + been VBN) +VBG
+vtr		13	 VBD
+vtr		14	(was VBD) + VBG
+vtr		20	(is VBP) + VBN
+vtr		21	(is VBP + been VBN) +VBG
+vtr		23	VBP
+vtr		24	(be VB)  + VBG
+vtr		40	(have VBP + been VBN) +VBN
+vtr		42	(is VBZ) +  VBN
+vtr		43	(have VBP) + VBN 
+vtr		44	(have VBP + being VBG ) + VBN
+vtr		50	(was VBD + been VBN) +VBN
+vtr		53	(was VBD) + VBN 
+vtr		54	(was VBD + being VBG )+ VBN
+vtr		63	(be VB) + VBP
+vtr		03	VBP
+vit		03	VBP
+vdi		03	VBP
+conj			CC
+prep			IN
+num			NN
+in			UH
+,			,
+.			.
+!			.
+?			.
+par	0x5c07df000002		WDT
+par	0x5c07df000003		POS
+par	0x5c07df000001		TO
+par	0x5c07df0092c9		DEC

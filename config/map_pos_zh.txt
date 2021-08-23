@@ -1,0 +1,33 @@
+XML_pos	iid	ins	pos
+det			DT
+ncm		0	NN
+ncm		4	NN
+ncm		8	NN
+npp		0	NR
+npp		4	NR
+npp		8	NR
+ntp		0	NT
+ntp		4	NT
+ntp		8	NT
+cop			VC
+adj			JJ
+adv			AD
+vtr		03	VV
+vit		03	VV
+vdi		03	VV
+conj			CC
+prep			P
+num			NN
+pu			PU
+in			UH
+par	吗		SP
+par	所		MSP
+par	被		LB
+par	的		DEC
+par	地		DEV
+par	得		DER
+par	了		AS
+par	着		AS
+par	过		AS
+par	将		AS
+par	0x5c07df0092c9		DEG

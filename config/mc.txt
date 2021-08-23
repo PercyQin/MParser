@@ -1,0 +1,13 @@
+NOUN	16 -ins
+Countable singular Neuter 	0
+Countable singular Masculine	1
+Countable singular Feminine	2
+Countable singular Bisexual	3
+Countable plural Neuter 	4
+Countable plural Masculine	5
+Countable plural Feminine	6
+Countable plural Bisexual	7
+Uncountable  Neuter 	8
+Uncountable  Masculine	9
+Uncountable Feminine	A
+Uncountable Bisexual	B

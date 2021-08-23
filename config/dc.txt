@@ -1,0 +1,41 @@
+verb	16 -ins
+Active Present Perfect	00
+Active Present Perfect progressive	01
+Active Present Perfective	02
+Active Present Imperfective habitual	03
+Active Present Imperfective progressive	04
+Active Past Perfect	10
+Active Past Perfect progressive	11
+Active Past Perfective	12
+Active Past Imperfective habitual	13
+Active Past Imperfective progressive	14
+Active Future Perfect	20
+Active Future Perfect progressive	21
+Active Future Perfective	22
+Active Future Imperfective habitual	23
+Active Future Imperfective progressive	24
+Active Past future Perfect	30
+Active Past future Perfect progressive	31
+Active Past future Perfective	32
+Active Past future Imperfective habitual	33
+Active Past future Imperfective progressive	34
+Passive Present Perfect	40
+Passive Present Perfect progressive	41
+Passive Present Perfective	42
+Passive Present Imperfective habitual	43
+Passive Present Imperfective progressive	44
+Passive Past Perfect	50
+Passive Past Perfect progressive	51
+Passive Past Perfective	52
+Passive Past Imperfective habitual	53
+Passive Past Imperfective progressive	54
+Passive Future Perfect	60
+Passive Future Perfect progressive	61
+Passive Future Perfective	62
+Passive Future Imperfective habitual	63
+Passive Future Imperfective progressive	64
+Passive Past future Perfect	70
+Passive Past future Perfect progressive	71
+Passive Past future Perfective	72
+Passive Past future Imperfective habitual	73
+Passive Past future Imperfective progressive	74

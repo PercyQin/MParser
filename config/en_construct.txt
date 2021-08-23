@@ -1,0 +1,33 @@
+stanford	dependency	MNL	0
+S		S	0
+SBARQ		S01	0
+SQ		S01	0
+SBAR		GEN	NP
+SBAR		BADV	VP
+INTJ		L	0
+ADJP	acomp	X	0
+ADJP	xcomp	X	0
+ADJP	nmod	C	0
+ADJP	cop	X	0
+ADJP		GEN	0
+ADVP		ADV	0
+NP		NOM	0
+NP	obj	ACC	0
+NP	iobj	DAT	0
+NP	dobj	ACC	0
+NP	poss	GEN	0
+NP	nsubjpass	ACC	0
+NP	nmod:prep	ACC	0
+NP	ccomp	ACC	0
+NP 	nmod:tmod	TEM	0
+PP		COM	0
+PP		COMn	NP
+PP		COMv	VP
+QP		GEN	0
+VP		PRE	0
+WHNP	Det	GEN	0
+WHNP		ACC	SBARQ
+WHADVP		BADV	SBARQ
+WHADJP		GEN	SBARQ
+CC		CC	0
+IP		S	0
