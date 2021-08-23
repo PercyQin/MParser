@@ -1,0 +1,1 @@
+apple/NN 's/POS friend/NNS have/VBP finish/VBN homework/NN ,/, project/NN and/CC test/NN in/IN school/NN ,/, which/WDT he/NN is/VBZ push/VBN by/IN she/NN ./.
